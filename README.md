@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27aadecd-0e80-469d-94f7-e26ec9f41458)# 3D-Cam-Scanner
+# 3D-Cam-Scanner
 
 
 ## Overview
