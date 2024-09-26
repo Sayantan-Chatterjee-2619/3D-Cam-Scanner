@@ -12,6 +12,9 @@
 - Support for various camera angles and multiple lighting conditions.
 
 ## Screenshots
-
+<img src="images/Interface.png" width="300" alt="Interface">
+Caption: This is the Google Colab interface used to run the meshroom jupyter notebook which process the captured images to 3D Model.
 <img src="images/Real_Model.jpg" width="300" alt="Real Model">
-Caption: This the real model that is used to test the project
+Caption: This is the real model that is used to test the project.
+<img src="images/3D_Model.jpg" width="300" alt="3D Model">
+Caption: This is the 3D model of that real model formed by the meshroom jupyter notebook.
