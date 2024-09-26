@@ -13,5 +13,5 @@
 
 ## Screenshots
 
-![Real Model](images/Real_Model.jpg|width=300)
+<img src="images/Real_Model.jpg" width="300" alt="Real Model">
 *Caption: This the real model that is used to test the project*
