@@ -14,4 +14,4 @@
 ## Screenshots
 
 <img src="images/Real_Model.jpg" width="300" alt="Real Model">
-*Caption: This the real model that is used to test the project*
+Caption: This the real model that is used to test the project
