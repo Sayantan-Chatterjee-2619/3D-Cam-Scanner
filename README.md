@@ -16,7 +16,7 @@
 Caption: This is the Google Colab interface used to run the meshroom jupyter notebook which process the captured images to 3D Model.
 <img src="images/Real_Model.jpg" width="500" alt="Real Model">
 Caption: This is the real model that is used to test the project.
-<img src="images/3D_Model.jpg" width="800" alt="3D Model">
+<img src="images/3D_Model.jpg" width="600" alt="3D Model">
 Caption: This is the 3D model of that real model formed by the meshroom jupyter notebook.
-<img src="images/Comparison.jpg" width="800" alt="Comparison">
+<img src="images/Comparison.jpg" width="500" alt="Comparison">
 Caption: This is the real time comparison of the real object and the 3D model.
